@@ -1,0 +1,33 @@
+{
+  "name": "home-work-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "browserify": "16.5.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "2.6.1",
+    "gulp-css": "^0.1.0",
+    "gulp-csso": "^4.0.1",
+    "vinyl-source-stream": "2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp",
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xorunjiy97/home-work-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xorunjiy97/home-work-2/issues"
+  },
+  "homepage": "https://github.com/Xorunjiy97/home-work-2#readme"
+}
