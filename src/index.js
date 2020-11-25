@@ -38,12 +38,7 @@ for (let i = 0; i < clearBtns.length; i++) {
     })
 }
 
-
 decimalBtn.addEventListener("click", decimal);
-
-
-
-
 
 function numberPress(number) {
 
